@@ -9,6 +9,7 @@ Vue.config.productionTip = false;
 console.log(111)
 console.log(2222)
 console.log("我是feature分支")
+console.log("我是feature分支2")
 new Vue({
   router,
   store,
