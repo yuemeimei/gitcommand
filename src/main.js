@@ -6,7 +6,8 @@ import 'lib-flexible/flexible'
 
 
 Vue.config.productionTip = false;
-
+console.log(111)
+console.log(2222)
 new Vue({
   router,
   store,
